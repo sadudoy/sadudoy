@@ -4,11 +4,6 @@
   Computer Science Student • Aspiring Software Developer
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/sadudoy?style=flat&color=444" />
-  <img src="https://img.shields.io/github/stars/sadudoy?style=flat&color=444" />
-</p>
-
 ---
 
 ## About Me
@@ -47,13 +42,6 @@ I value **clean code, fundamentals, and continuous learning**.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadudoy&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   Focused on learning, building, and improving one step at a time.
