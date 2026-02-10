@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sad Ibna Forid </h1>
 
 <p align="center">
-  Computer Science Student • Building Practical Software Projects
+  CSE Undergraduate | Beginner Java Developer | Exploring Software Projects
 </p>
 
 ---
@@ -10,9 +10,9 @@
 
 ## About Me
 
-Passionate about software engineering, problem-solving, and continuous technical improvement
+Computer Science undergraduate with a strong interest in software development and problem solving
 
-I value **clean code, fundamentals, and continuous learning**.
+**Actively looking to learn and grow as a developer**
 
 ---
 
