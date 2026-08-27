@@ -109,14 +109,15 @@ Computer Science undergraduate with a strong interest in software development an
 </p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://raw.githubusercontent.com/sadudoy/sadudoy/output/activity-graph.svg"
     alt="Sadudoy's GitHub Activity Graph"
     width="100%"
   />
-</p>
+</p> -->
 
+![3D Contribution Graph](https://raw.githubusercontent.com/sadudoy/sadudoy/main/profile-3d-contrib/profile-night-view.svg)
   
 ---
 

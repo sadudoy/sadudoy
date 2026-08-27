@@ -1,44 +1,30 @@
-name: Update Activity Graph
+name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *" # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v6
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate activity graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: sadudoy
-          options: >-
-            bg_color=0d1117&
-            color=8b949e&
-            title_color=c9d1d9&
-            line=58a6ff&
-            point=58a6ff&
-            area_color=58a6ff&
-            area=true&
-            hide_border=true&
-            radius=8&
-            height=300&
-            grid=true
-          output_path: dist/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Publish activity graph
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Generate 3D Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit and Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Generated 3D Contribution Graph" || echo "No changes to commit"
+          git push
