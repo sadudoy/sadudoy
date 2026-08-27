@@ -20,19 +20,17 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: sadudoy
-options: >-
-  bg_color=0d1117&
-  color=ffffff&
-  line=56D4DD&
-  point=ffffff&
-  area_color=56D4DD&
-  area=true&
-  hide_border=true&
-  radius=8&
-  height=300&
-  grid=true
-
-
+          options: >-
+            bg_color=0d1117&
+            color=ffffff&
+            line=56D4DD&
+            point=ffffff&
+            area_color=56D4DD&
+            area=true&
+            hide_border=true&
+            radius=8&
+            height=300&
+            grid=true
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
