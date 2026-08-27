@@ -67,9 +67,9 @@ Computer Science undergraduate with a strong interest in software development an
 
 ## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sadudoy&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" />
-</p>
+</p> -->
 
 
 <p align="center">
