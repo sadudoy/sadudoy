@@ -68,8 +68,18 @@ Computer Science undergraduate with a strong interest in software development an
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadudoy&theme=github-dark&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=sadudoy&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" />
 </p>
+
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sadudoy/sadudoy/output/activity-graph.svg"
+    alt="Sadudoy's GitHub Activity Graph"
+    width="100%"
+  />
+</p>
+
   
 ---
 
