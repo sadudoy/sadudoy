@@ -67,31 +67,12 @@ Computer Science undergraduate with a strong interest in software development an
 
 ## Featured Projects
 
-### 01 · [Jethop — JavaFX Game](https://github.com/sadudoy/jethop-javafx-game)
-> A JavaFX-based game project focused on gameplay mechanics, GUI development, and object-oriented programming.
-
-**`Java` · `JavaFX`**
-
----
-
-### 02 · [Pixel Shrink — Image Compressor](https://github.com/sadudoy/pixel-shrink-image-compressor)
-> An image compression tool designed to reduce image size while maintaining practical visual quality.
-
-**`JavaScript` · `Image Processing`**
-
----
-
-### 03 · [QraftGo — QR Generator](https://github.com/sadudoy/qraftgo-qr-generator)
-> A lightweight QR code generator for creating QR codes quickly and conveniently.
-
-**`JavaScript` · `QR Generation`**
-
----
-
-### 04 · [Smart Railway Gate System](https://github.com/sadudoy/Smart-Raiway-Gate-System)
-> A smart railway gate management project designed to improve railway crossing safety through automated control.
-
-**`C++` · `Automation` . `ESP 32`**
+| Project                                                                              | Description                                                                            | Tech Stack                     |
+| :----------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- | :----------------------------- |
+| **[Jethop](https://github.com/sadudoy/jethop-javafx-game)**                          | JavaFX-based game focused on gameplay mechanics, GUI development, and OOP.             | `Java` · `JavaFX`              |
+| **[Pixel Shrink](https://github.com/sadudoy/pixel-shrink-image-compressor)**         | Image compression tool focused on reducing file size while maintaining visual quality. | `HTML` · `CSS` · `JavaScript`  |
+| **[QraftGo](https://github.com/sadudoy/qraftgo-qr-generator)**                       | Lightweight tool for generating QR codes quickly and conveniently.                     | `HTML` · `CSS` · `JavaScript`  |
+| **[Smart Railway Gate System](https://github.com/sadudoy/Smart-Raiway-Gate-System)** | Automated railway crossing system designed to improve railway safety.                  | `C++` · `ESP32` · `Automation` |
 
 ---
 
@@ -101,13 +82,11 @@ Computer Science undergraduate with a strong interest in software development an
 
 ---
 
-
 ## GitHub Stats
 
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sadudoy&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" />
 </p> -->
-
 
 <!-- <p align="center">
   <img
@@ -118,7 +97,7 @@ Computer Science undergraduate with a strong interest in software development an
 </p> -->
 
 ![3D Contribution Graph](https://raw.githubusercontent.com/sadudoy/sadudoy/main/profile-3d-contrib/profile-night-view.svg)
-  
+
 ---
 
 ## Currently Learning
