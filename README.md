@@ -69,10 +69,10 @@ Computer Science undergraduate with a strong interest in software development an
 
 | Project                                                                              | Description                                                                            | Tech Stack                     |
 | :----------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- | :----------------------------- |
+| **[HutFix](https://github.com/sadudoy/hutfix-smart-home-service-automation)** | On-Demand Home Services Marketplace with Real-Time Tracking & Manual bKash Payments. | `Node.js` · `Express` · `PostgreSQL` · `Vanilla JS` |
 | **[Jethop](https://github.com/sadudoy/jethop-javafx-game)**                          | JavaFX-based game focused on gameplay mechanics, GUI development, and OOP.             | `Java` · `JavaFX`              |
 | **[Pixel Shrink](https://github.com/sadudoy/pixel-shrink-image-compressor)**         | Image compression tool focused on reducing file size while maintaining visual quality. | `HTML` · `CSS` · `JavaScript`  |
 | **[QraftGo](https://github.com/sadudoy/qraftgo-qr-generator)**                       | Lightweight tool for generating QR codes quickly and conveniently.                     | `HTML` · `CSS` · `JavaScript`  |
-| **[Smart Railway Gate System](https://github.com/sadudoy/Smart-Raiway-Gate-System)** | Automated railway crossing system designed to improve railway safety.                  | `C++` · `ESP32` · `Automation` |
 
 ---
 
@@ -84,18 +84,6 @@ Computer Science undergraduate with a strong interest in software development an
 
 ## GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sadudoy&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" />
-</p> -->
-
-<!-- <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/sadudoy/sadudoy/output/activity-graph.svg"
-    alt="Sadudoy's GitHub Activity Graph"
-    width="100%"
-  />
-</p> -->
-
 ![3D Contribution Graph](https://raw.githubusercontent.com/sadudoy/sadudoy/main/profile-3d-contrib/profile-night-view.svg)
 
 ---
@@ -106,6 +94,7 @@ Computer Science undergraduate with a strong interest in software development an
 - Data Structures & Algorithms II
 - Database Management System
 - Theory of Computation
+- FLutter App Development
 
 ---
 
